@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{86:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chrome Is Bad","permalink":"/blog/chrome"},{"title":"Razer Peripherals and Big Sur","permalink":"/blog/razer"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);

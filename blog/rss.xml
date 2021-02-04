@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>GDD Tech Support Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>GDD Tech Support Blog</description>
+        <lastBuildDate>Mon, 14 Dec 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chrome Is Bad]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/chrome</link>
+            <guid>chrome</guid>
+            <pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chrome is Bad.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Razer Peripherals and Big Sur]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/razer</link>
+            <guid>razer</guid>
+            <pubDate>Fri, 20 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[So for anyone updating to Big Sur and using a Razer Synapse 2.0 v1.88.20.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi everyone, and welcome to the GDD Lab info documentaion.]]></description>
+        </item>
+    </channel>
+</rss>

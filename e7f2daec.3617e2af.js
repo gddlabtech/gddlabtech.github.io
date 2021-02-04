@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{94:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"mice-keyboards","name":"mice&keyboards","count":1,"permalink":"/blog/tags/mice-keyboards"}')}}]);
