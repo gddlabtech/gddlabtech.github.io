@@ -9,28 +9,28 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Markdown Tablets]]></title>
-            <link>https://gddlabtech.github.io/gddlabtech.github.io/blog/markdown</link>
+            <link>https://gddlabtech.github.io/blog/markdown</link>
             <guid>markdown</guid>
             <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[When I first started studying design, I heard a few times:]]></description>
         </item>
         <item>
             <title><![CDATA[Chrome Is Bad]]></title>
-            <link>https://gddlabtech.github.io/gddlabtech.github.io/blog/chrome</link>
+            <link>https://gddlabtech.github.io/blog/chrome</link>
             <guid>chrome</guid>
             <pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Chrome is Bad.]]></description>
         </item>
         <item>
             <title><![CDATA[Razer Peripherals and Big Sur]]></title>
-            <link>https://gddlabtech.github.io/gddlabtech.github.io/blog/razer</link>
+            <link>https://gddlabtech.github.io/blog/razer</link>
             <guid>razer</guid>
             <pubDate>Fri, 20 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[So for anyone updating to Big Sur and using a Razer Synapse 2.0 v1.88.20.]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://gddlabtech.github.io/gddlabtech.github.io/blog/welcome</link>
+            <link>https://gddlabtech.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi everyone, and welcome to the GDD Lab info documentaion.]]></description>
