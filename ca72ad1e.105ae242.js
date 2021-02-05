@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{97:function(a){a.exports=JSON.parse('{"allTagsPath":"/gddlabtech.github.io/blog/tags","slug":"web","name":"web","count":1,"permalink":"/gddlabtech.github.io/blog/tags/web"}')}}]);
