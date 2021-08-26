@@ -4,9 +4,16 @@
         <title>GDD Tech Support Blog</title>
         <link>https://gddlabtech.github.io/blog</link>
         <description>GDD Tech Support Blog</description>
-        <lastBuildDate>Tue, 09 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Back to Campus]]></title>
+            <link>https://gddlabtech.github.io/blog/back</link>
+            <guid>back</guid>
+            <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome Back!]]></description>
+        </item>
         <item>
             <title><![CDATA[Top MacOS Utilities]]></title>
             <link>https://gddlabtech.github.io/blog/utilities</link>
