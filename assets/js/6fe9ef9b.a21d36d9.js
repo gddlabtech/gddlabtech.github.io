@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgdd_tech_2=self.webpackChunkgdd_tech_2||[]).push([[2784],{9298:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/apps","name":"apps","count":2,"permalink":"/blog/tags/apps"}')}}]);
