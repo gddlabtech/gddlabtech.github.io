@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgdd_tech_2=self.webpackChunkgdd_tech_2||[]).push([[3309],{9174:function(e){e.exports=JSON.parse('{"label":"mice&keyboards","permalink":"/blog/tags/mice-keyboards","allTagsPath":"/blog/tags","count":2}')}}]);

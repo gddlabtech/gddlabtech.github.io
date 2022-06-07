@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgdd_tech_2=self.webpackChunkgdd_tech_2||[]).push([[489],{9159:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"web","count":1,"permalink":"/blog/tags/web"}')}}]);
