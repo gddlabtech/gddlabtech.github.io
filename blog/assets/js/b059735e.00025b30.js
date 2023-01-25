@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgdd_tech_2=self.webpackChunkgdd_tech_2||[]).push([[5893],{7288:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/web","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

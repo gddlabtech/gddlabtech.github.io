@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgdd_tech_2=self.webpackChunkgdd_tech_2||[]).push([[850],{5695:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/software","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
